@@ -1,4 +1,4 @@
-/*
+/*.
 this program lets u find next palindrom::
 Input:
 2
